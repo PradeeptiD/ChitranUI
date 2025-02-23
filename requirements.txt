@@ -1,0 +1,13 @@
+streamlit
+transformers
+transformers[torch]
+sentencepiece
+diffusers
+torch
+colorthief
+pillow
+opencv-python
+pandas
+numpy
+torch
+torchvision
